@@ -17,3 +17,5 @@
 ### Functions as data
 
 ### Passing functions as argument
+
+### Returning functions
