@@ -29,3 +29,5 @@
 ## Functional parts
 
 ### Spread operator
+
+### Map
