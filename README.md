@@ -19,3 +19,9 @@
 ### Passing functions as argument
 
 ### Returning functions
+
+### Closure
+
+### Private variables
+
+### Higher order
