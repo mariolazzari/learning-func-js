@@ -19,3 +19,4 @@ const secondArgIsNotZero =
 const divideSafe = secondArgIsNotZero(divide);
 console.log(divideSafe(10, 2)); // 5
 console.log(divideSafe(10, 0)); // You can't divide by zero
+// console.log(divideSafe(10, 0)); // undefined

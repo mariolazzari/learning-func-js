@@ -25,3 +25,7 @@
 ### Private variables
 
 ### Higher order
+
+## Functional parts
+
+### Spread operator
