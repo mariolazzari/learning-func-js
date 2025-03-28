@@ -31,3 +31,15 @@
 ### Spread operator
 
 ### Map
+
+### Filter
+
+### Every & some
+
+### Slice
+
+### Sorting
+
+### Reduce
+
+### Chaining
