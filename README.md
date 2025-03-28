@@ -43,3 +43,7 @@
 ### Reduce
 
 ### Chaining
+
+## Advanced concepts
+
+### Currying
