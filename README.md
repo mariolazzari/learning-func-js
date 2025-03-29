@@ -47,3 +47,8 @@
 ## Advanced concepts
 
 ### Currying
+
+### Recursion
+
+### Functions as objects
+
